@@ -1,0 +1,14 @@
+*.pdb
+*.DS_Store
+/__pycache__/
+/ui/__pycache__/
+/processing/__pycache__/
+/app/__pycache__/
+outputs
+pdbs
+*.spec
+
+.venv/
+
+build/
+dist/
