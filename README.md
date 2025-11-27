@@ -19,11 +19,6 @@ components live under `app/`, `processing/`, and `ui/`, respectively.
 
 
 ### Run the App
-```powershell
-.\.venv\Scripts\Activate.ps1
-python main.py
-```
-
 When the window opens, use **Select File** to choose a `.pdb`, then **Process
 File** to generate interaction stats and renderable data. Double-click entries in
 the sidebar to revisit earlier runs. Use **View Raw PDB** for a plain-text view.
