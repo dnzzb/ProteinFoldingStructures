@@ -15,7 +15,7 @@ components live under `app/`, `processing/`, and `ui/`, respectively.
 ### Requirements
 - Python 3.11+.
 - System packages provided in `requirements.txt`:
-  - `numpy`, `vtk`, `PySide6`, `matplotlib` and their runtime deps.
+  - `numpy`, `vtk`, `PySide6`
 
 
 ### Run the App
